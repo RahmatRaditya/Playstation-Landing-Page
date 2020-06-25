@@ -1,0 +1,102 @@
+.dark {
+    background-color: #303030;
+}
+
+.text-blue {
+    color: #2C5BD4;
+}
+
+.text-white {
+    color: white;
+}
+
+.my-nav {
+    font-size: 14px;
+}
+
+.navbar {
+    min-width: 100%;
+}
+
+.my-btn {
+    background-color: #2C5BD4;
+    border-radius: 0%;
+    color: white;
+    font-weight: 500;
+}
+
+.login-btn{
+    padding: 8px 24px;
+}
+
+.buy-btn {
+    width: 387px;
+    height: 65px;
+}
+
+.small-buy-btn {
+    width: 205px;
+    height: 65px;
+}
+
+.sec-1 h1 {
+    font-size: 70px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.price {
+    font-size: 48px;
+}
+
+.price span {
+    font-size: 24px !important;
+}
+
+.height-400 {
+    height: 400px;
+}
+
+.height-500 {
+    height: 500px;
+}
+
+.height-700 {
+    height: 700px;
+}
+
+.height-800 {
+    height: 800px;
+}
+
+.layer-1 {
+    z-index: 1;
+}
+
+.layer-2 {
+    z-index: 2;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #232323;
+    padding: 48px 0;
+}
+
+.footer a {
+    color: white !important;
+    margin-top: 12px;
+}
+
+.my-card img {
+    box-shadow: 24px 24px 50px 0px rgba(20,20,20,0.5);
+}
